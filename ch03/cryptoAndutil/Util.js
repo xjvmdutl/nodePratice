@@ -1,4 +1,4 @@
-const util = require("ch03/cryptoutil/Util");
+const util = require("ch03/cryptoAndutil/Util");
 const crypto = require("crypto");
 const buffer = require("buffer");
 
